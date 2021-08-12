@@ -1,4 +1,4 @@
-# responsive_flutter
+# li_info_responsive_flutter
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 
@@ -10,7 +10,7 @@ You just need to add `responsive_flutter` as a [dependency in your pubspec.yaml 
 
 ```yaml
 dependencies:
-  responsive_flutter: ^0.0.4
+  li_info_responsive_flutter: ^0.0.4
 ```
 
 ## Usage

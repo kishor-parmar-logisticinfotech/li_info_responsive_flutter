@@ -1,4 +1,4 @@
-library responsive_flutter;
+library li_info_responsive_flutter;
 
 import 'scaling_query.dart';
 

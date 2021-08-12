@@ -1,11 +1,10 @@
-name: responsive_flutter
+name: li_info_responsive_flutter
 description: A Flutter package for scaling the size your apps UI and fontSize across different sized devices.
-version: 0.0.4
-author: Slah Layouni <work.layouni.slah@gmail.com>
-homepage: https://github.com/layounisl/responsive_flutter
+version: 0.0.1
+homepage: https://github.com/kishor-parmar-logisticinfotech/li_info_responsive_flutter
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
   flutter:
